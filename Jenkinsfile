@@ -1,7 +1,7 @@
 node('master'){
 	   
 	   stage('Git checkout'){
-	                  git 'https://github.com/Gajalakhsmi98/GeneralSpringBootProgExce.git'
+	                  git 'https://github.com/EvolveTechno/springboot.4.0.git'
 	              }
 
 
