@@ -1,4 +1,5 @@
-node('master'){
+node{
+	
 	   
 	   stage('Git checkout'){
 	                  git 'https://github.com/EvolveTechno/springboot.4.0.git'
